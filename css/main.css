@@ -1,0 +1,48 @@
+.background {
+    background-color: lightgrey;
+}
+
+.All {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.container {
+    width: 240px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-top: 10px;
+}
+
+.paragraphs {
+    width: 250px;
+    height: 165px;
+    margin-bottom: 15px;
+}
+
+.title__paragraphs {
+    text-align: center;
+    padding: 5px;
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+.content__paragraphs {
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.qrImage {
+    width: 210px;
+    border-radius: 15px;
+}
